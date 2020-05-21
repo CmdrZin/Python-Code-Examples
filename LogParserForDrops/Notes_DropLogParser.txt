@@ -1,0 +1,48 @@
+Notes_DropLogParser.rtf
+16may20 ndp
+20may20
+
+Notes on building a Log File Parser to learn Python
+
+Drop Log File Format
+
+Date		Time
+[WDay Month Day HH:MM:SS YYYY] <text string>
+
+[Fri May 08 22:14:13 2020] --You have looted a Young Plains Cat Backbone from a young puma's corpse.--
+[Fri May 08 22:17:05 2020] --You have looted 2 Spiderling Silk from a desert spiderling's corpse.--
+[Fri May 08 22:17:05 2020] --You have looted a Desert Spiderling Hairs from a desert spiderling's corpse.--
+[Fri May 08 22:12:18 2020] --You have looted 2 Armadillo Meat from an armadillo's corpse.--
+[Fri May 08 22:12:18 2020] --You have looted an Armadillo Carapace from an armadillo's corpse.--
+[Sat May 09 02:13:27 2020] Issilyn Ristan told you, 'I'll give you 2 gold 3 silver 8 copper for the Large Lantern.'
+
+
+1. First effort is to break out seperate out "You have looted .." entries into a new file "Loot_+<filename>".
+
+Steps - dropLogParse.py
+Open filename given by input. Read Only text.
+Open "DL_+<filename>" file as Write text.
+Read in file, line by line.
+Scan line to find first "You have looted a", then string up to "from". This is what was looted. After the "from" 
+is what dropped the loot. Can stop at the " 's " string.
+NOTE: Could be a number after "looted ". If so, there's no "a". Could also be an "an". So the number replaces "a" or "an"
+between the two spaces after "from".
+Add "I'll give you " tag and record these lines also.
+Based on scan, write line to file.
+
+ 2. Don't worry about quantity now. Skip past the next space after 'from ' and treat all until ' or . as an item.
+Make a dictionary for db[name].  'source', 'sellTo', 'buyFrom'
+PROBLEM: Loot can have multiple sources. A Source can drop multiple loot. Make sourece a list, use append() to add. Fixed..ok..
+Fixed . or ' ending charactor in source description.
+TODO: Check if key exists, check for item on source list. Add if not there. Stops overwrite. DONE..works great.
+Add CSV output to test spreadsheet importing. Almost. Doesn't group multiple sources into one cell..hmm...hah. fixed..works..
+
+3. Figure out sell and buy prices and get mob level.
+
+4. Drop rate
+
+
+
+
+
+

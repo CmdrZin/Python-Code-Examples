@@ -1,0 +1,503 @@
+a Bat Wing from a myotis bat's corpse.--
+a Rat Meat from a large rat's corpse.--
+2 Snake Scales from a snake's corpse.--
+2 Snake Scales from a snake's corpse.--
+2 Snake Fang from a snake's corpse.--
+a Rat Meat from a large rat's corpse.--
+a Rat Eye from a large rat's corpse.--
+1 silver per Bat Wing'
+1 silver per Rat Meat'
+1 silver per Snake Scales'
+3 copper per Snake Fang'
+2 gold 3 silver 8 copper per Rat Eye'
+2 Bone Chips from a decaying skeleton's corpse.--
+a Raw Stiff Hide from a large rat's corpse.--
+2 Snake Scales from a snake's corpse.--
+a Snake Fang from a snake's corpse.--
+2 Bat Wing from a myotis bat's corpse.--
+a Rat Foot from a large rat's corpse.--
+a Rat Ears from a large rat's corpse.--
+a Rat Eye from a large rat's corpse.--
+a Rat Ears from a large rat's corpse.--
+a Rat Meat from a large rat's corpse.--
+a Snake Scales from a snake's corpse.--
+a Snake Fang from a snake's corpse.--
+a Bat Wing from a myotis bat's corpse.--
+1 silver per Bat Wing'
+absolutely nothing per Bandages*'
+1 silver 1 copper for the Rat Foot.'
+1 silver per Rat Ears'
+2 gold 3 silver 8 copper per Rat Eye'
+1 silver per Snake Scales'
+5 copper per Raw Stiff Hide'
+1 silver 4 copper per Bone Chips'
+1 silver per Rat Meat'
+a Bone Chips from a decaying skeleton's corpse.--
+a Cloth Pants from a decaying skeleton's corpse.--
+a Fire Beetle Eye from a fire beetle's corpse.--
+a Medium Quality Wolf Skin from a gray wolf's corpse.--
+a Bone Chips from a decaying skeleton's corpse.--
+a Snake Bile from a rattlesnake's corpse.--
+a Desert Spiderling Hairs from a desert spiderling's corpse.--
+a Chunk of Meat from a young puma's corpse.--
+a Ruined Cat Pelt from a young puma's corpse.--
+a Matted Greater Cat Pelt from a young puma's corpse.--
+a Young Plains Cat Scalp from a young puma's corpse.--
+a Snake Fang from a rattlesnake's corpse.--
+a Snake Bile from a rattlesnake's corpse.--
+a Blackrock Lichen from a rattlesnake's corpse.--
+a Rattlesnake Skin from a rattlesnake's corpse.--
+a Snake Fang from a rattlesnake's corpse.--
+a Snake Bile from a rattlesnake's corpse.--
+a Snake Egg from a rattlesnake's corpse.--
+2 Bone Chips from a decaying skeleton's corpse.--
+a Bone Chips from a decaying skeleton's corpse.--
+2 silver 7 copper per Fire Beetle Eye'
+absolutely nothing per Snake Bile'
+2 gold 3 silver 8 copper per Young Plains Cat Scalp'
+3 copper per Snake Fang'
+9 gold 5 silver 2 copper for the Blackrock Lichen.'
+5 copper per Snake Egg'
+2 silver 4 copper per Rattlesnake Skin'
+2 gold 3 silver 8 copper per Matted Greater Cat Pelt'
+2 silver 7 copper per Fire Beetle Eye'
+absolutely nothing per Desert Spiderling Hairs'
+9 silver 5 copper per Medium Quality Wolf Skin'
+9 gold 5 silver 2 copper for the Blackrock Lichen.'
+2 silver 7 copper per Fire Beetle Eye'
+1 silver 4 copper per Bone Chips'
+absolutely nothing per Desert Spiderling Hairs'
+9 silver 5 copper per Medium Quality Wolf Skin'
+1 silver per Ruined Cat Pelt'
+2 silver 7 copper per Fire Beetle Eye'
+2 silver 4 copper per Rattlesnake Skin'
+9 gold 5 silver 2 copper for the Blackrock Lichen.'
+1 silver 4 copper per Bone Chips'
+9 silver 5 copper per Medium Quality Wolf Skin'
+absolutely nothing per Snake Bile'
+absolutely nothing per Desert Spiderling Hairs'
+1 silver 3 copper per Chunk of Meat'
+2 gold 3 silver 8 copper per Matted Greater Cat Pelt'
+2 gold 3 silver 8 copper per Young Plains Cat Scalp'
+3 copper per Snake Fang'
+9 gold 5 silver 2 copper for the Blackrock Lichen.'
+2 silver 4 copper per Rattlesnake Skin'
+5 copper per Snake Egg'
+2 silver 7 copper per Fire Beetle Eye'
+1 silver per Ruined Cat Pelt'
+9 silver 5 copper per Medium Quality Wolf Skin'
+6 platinum 1 gold 9 silver for the Hardened Driftwood Great Staff.'
+6 platinum 1 gold 9 silver for the Hardened Driftwood Great Staff.'
+3 platinum 4 gold 5 copper for the Pyrrhotite Sample.'
+4 platinum 2 gold 8 silver 6 copper for the Shiny Stone Dagger.'
+2 platinum 3 gold 8 silver 1 copper per Rhodocrosite'
+6 platinum 1 gold 9 silver for the Hardened Driftwood Great Staff.'
+1 platinum 4 gold 2 silver 9 copper per Etched Acrylia Rune - Gomn'
+2 platinum per Etched Acrylia Rune - Drurn'
+9 gold 5 silver 2 copper per Etched Acrylia Rune - Dytl'
+9 gold 5 silver 2 copper per Etched Acrylia Rune - Dytl'
+9 gold 5 silver 2 copper per Etched Acrylia Rune - Dytl'
+6 gold 6 silver 7 copper per Etched Acrylia Rune - Numn'
+4 platinum 7 gold 6 silver 2 copper per Etched Acrylia Rune - Buh'
+4 gold 7 silver 6 copper per Etched Acrylia Rune - Juln'
+a Bone Chips from a decaying skeleton's corpse.--
+2 Spiderling Eye from a desert spiderling's corpse.--
+an Armadillo Carapace from an armadillo's corpse.--
+an Armadillo Tooth from an armadillo's corpse.--
+an Armadillo Meat from an armadillo's corpse.--
+2 Armadillo Meat from an armadillo's corpse.--
+an Armadillo Carapace from an armadillo's corpse.--
+an Armadillo Meat from an armadillo's corpse.--
+an Armadillo Tooth from an armadillo's corpse.--
+an Armadillo Tail from an armadillo's corpse.--
+a Spiderling Eye from a dune spiderling's corpse.--
+a Spiderling Silk from a dune spiderling's corpse.--
+an Armadillo Carapace from an armadillo's corpse.--
+an Armadillo Tail from an armadillo's corpse.--
+a Snake Scales from a moss snake's corpse.--
+a Snake Egg from a moss snake's corpse.--
+2 Snake Fang from a rattlesnake's corpse.--
+a Snake Egg from a rattlesnake's corpse.--
+an Armadillo Carapace from an armadillo's corpse.--
+an Armadillo Tooth from an armadillo's corpse.--
+a Large Snake Rattle from a rattlesnake's corpse.--
+a Chunk of Meat from a young puma's corpse.--
+a Young Plains Cat Scalp from a young puma's corpse.--
+a Matted Greater Cat Pelt from a young puma's corpse.--
+a Young Plains Cat Backbone from a young puma's corpse.--
+a Ruined Cat Pelt from a young puma's corpse.--
+a Young Plains Cat Backbone from a young puma's corpse.--
+a Matted Greater Cat Pelt from a young puma's corpse.--
+a Young Puma Skin from a young puma's corpse.--
+a Puma Skin from a young puma's corpse.--
+a Spiderling Eye from a dune spiderling's corpse.--
+a Spiderling Silk from a dune spiderling's corpse.--
+a Woven Spider Silk from a dune spiderling's corpse.--
+a Bear Meat from a black bear.--
+a Wolf Meat from a black wolf.--
+a Leaf Scarab Sternite from a leaf scarab's corpse.--
+a Scarab Eye from a leaf scarab's corpse.--
+2 Spiderling Silk from a spiderling's corpse.--
+a Bear Meat from a black bear's corpse.--
+a Medium Quality Bear Skin from a black bear's corpse.--
+a Black Bear Paw from a black bear's corpse.--
+a Scarab Carapace from a leaf scarab's corpse.--
+1 silver per Spiderling Eye'
+2 gold 3 silver 8 copper per Young Plains Cat Scalp'
+2 gold 3 silver 8 copper per Matted Greater Cat Pelt'
+1 silver per Ruined Cat Pelt'
+absolutely nothing per Young Puma Skin'
+9 silver 5 copper per Puma Skin'
+absolutely nothing for the Leaf Scarab Sternite.'
+6 silver 2 copper for the Scarab Eye.'
+2 gold 3 silver 8 copper per Black Bear Paw'
+1 gold 3 silver 3 copper for the Scarab Carapace.'
+absolutely nothing per Armadillo Carapace'
+2 gold 3 silver 8 copper per Armadillo Tail'
+absolutely nothing per Young Plains Cat Backbone'
+1 silver 4 copper per Large Snake Rattle'
+1 silver 4 copper per Bone Chips'
+1 silver 3 copper per Chunk of Meat'
+5 copper per Snake Egg'
+3 copper per Snake Fang'
+1 silver 4 copper per Large Snake Rattle'
+absolutely nothing per Young Plains Cat Backbone'
+1 silver per Ruined Cat Pelt'
+absolutely nothing per Young Puma Skin'
+1 silver 4 copper per Bone Chips'
+1 gold 3 silver 3 copper for the Scarab Carapace.'
+2 gold 3 silver 8 copper per Black Bear Paw'
+1 gold 9 silver per Medium Quality Bear Skin'
+6 silver 2 copper for the Scarab Eye.'
+2 gold 3 silver 8 copper per Woven Spider Silk'
+absolutely nothing for the Leaf Scarab Sternite.'
+1 silver per Wolf Meat'
+1 silver per Armadillo Meat'
+1 silver per Bear Meat'
+2 gold 3 silver 8 copper per Armadillo Tooth'
+absolutely nothing per Armadillo Carapace'
+1 gold 9 silver per Medium Quality Bear Skin'
+absolutely nothing per Armadillo Carapace'
+2 gold 3 silver 8 copper per Armadillo Tail'
+1 silver 6 copper per Spiderling Silk'
+1 silver per Snake Scales'
+1 silver per Wolf Meat'
+1 silver per Armadillo Meat'
+1 silver per Bear Meat'
+absolutely nothing per Armadillo Carapace'
+absolutely nothing for the Leaf Scarab Sternite.'
+1 gold 9 silver per Medium Quality Bear Skin'
+a Rat Whiskers from a large rat's corpse.--
+a Rat Whiskers from a large rat's corpse.--
+a Rat Whiskers from a large rat's corpse.--
+2 Rat Whiskers from a large rat's corpse.--
+2 Rat Ears from a large rat's corpse.--
+a Rat Meat from a large rat's corpse.--
+a Rat Ears from a large rat's corpse.--
+2 Rat Whiskers from a large rat's corpse.--
+a Raw Stiff Hide from a large rat's corpse.--
+a Rat Whiskers from a large rat's corpse.--
+a Rat Whiskers from a large rat's corpse.--
+a Rat Meat from a large rat's corpse.--
+2 Rat Whiskers from a large rat's corpse.--
+a Rat Meat from a large rat's corpse.--
+a Raw Stiff Hide from a large rat's corpse.--
+a Rat Ears from a large rat's corpse.--
+a Raw Stiff Hide from a large rat's corpse.--
+a Rat Ears from a large rat's corpse.--
+a Raw Stiff Hide from a large rat's corpse.--
+a Rat Whiskers from a large rat's corpse.--
+a Rat Eye from a large rat's corpse.--
+a Rat Ears from a large rat's corpse.--
+a Rat Meat from a large rat's corpse.--
+a Rat Ears from a large rat's corpse.--
+a Raw Stiff Hide from a large rat's corpse.--
+a Rusty Battle Axe from a Deathfist pawn's corpse.--
+a Rusty Two Handed Sword from a Deathfist pawn's corpse.--
+a Deathfist Pawn Scalp from a Deathfist pawn's corpse.--
+a Small Cloth Cape from a Deathfist pawn's corpse.--
+a Rusty Shortened Spear from a Deathfist pawn's corpse.--
+2 Bat Wing from a myotis bat's corpse.--
+2 Bat Wing from a myotis bat's corpse.--
+a Bat Wing from a myotis bat's corpse.--
+a Bat Wing from a myotis bat's corpse.--
+a Bat Wing from a myotis bat's corpse.--
+2 Bat Wing from a myotis bat's corpse.--
+2 Bat Wing from a myotis bat's corpse.--
+a Bat Wing from a myotis bat's corpse.--
+a Bone Chips from a decaying skeleton's corpse.--
+2 Bone Chips from a decaying skeleton's corpse.--
+a Cloth Cord from a decaying skeleton's corpse.--
+2 Bone Chips from a decaying skeleton's corpse.--
+2 Bone Chips from a decaying skeleton's corpse.--
+2 Bone Chips from a decaying skeleton's corpse.--
+a Bone Chips from a decaying skeleton's corpse.--
+2 Bone Chips from a decaying skeleton's corpse.--
+a Bone Chips from a decaying skeleton's corpse.--
+a Parrying Dagger from a decaying skeleton's corpse.--
+a Bone Chips from a decaying skeleton's corpse.--
+a Cloth Veil from a decaying skeleton's corpse.--
+2 Bone Chips from a decaying skeleton's corpse.--
+a Bone Chips from a decaying skeleton's corpse.--
+a Cloth Sleeves from a decaying skeleton's corpse.--
+a Cloth Wristband from a decaying skeleton's corpse.--
+2 Bone Chips from a decaying skeleton's corpse.--
+a Bone Chips from a decaying skeleton's corpse.--
+2 Bone Chips from a decaying skeleton's corpse.--
+2 Bone Chips from a decaying skeleton's corpse.--
+a Fire Beetle Eye from a fire beetle's corpse.--
+a Fire Beetle Eye from a fire beetle's corpse.--
+a Fire Beetle Eye from a fire beetle's corpse.--
+a Fire Beetle Eye from a fire beetle's corpse.--
+a Fire Beetle Leg from a fire beetle's corpse.--
+2 Fire Beetle Eye from a fire beetle's corpse.--
+2 Fire Beetle Eye from a fire beetle's corpse.--
+2 Snake Scales from a snake's corpse.--
+2 Snake Fang from a snake's corpse.--
+a Snake Scales from a snake's corpse.--
+a Snake Scales from a snake's corpse.--
+2 Snake Fang from a snake's corpse.--
+2 Snake Scales from a snake's corpse.--
+2 Snake Fang from a snake's corpse.--
+a Deathfist Pawn Scalp from a Deathfist pawn's corpse.--
+a Rat Whiskers from a large rat's corpse.--
+a Snake Scales from a snake's corpse.--
+a Snake Fang from a snake's corpse.--
+1 silver per Rat Whiskers'
+1 silver per Rat Ears'
+1 silver per Rat Meat'
+5 copper per Raw Stiff Hide'
+2 gold 3 silver 8 copper per Rat Eye'
+2 gold 8 silver 6 copper for the Rusty Two Handed Sword.'
+1 gold 8 silver 1 copper for the Rusty Battle Axe.'
+2 gold 8 silver 6 copper for the Rusty Two Handed Sword.'
+1 silver per Deathfist Pawn Scalp'
+1 gold 2 silver 4 copper for the Rusty Shortened Spear.'
+2 gold 4 silver 8 copper for the Small Cloth Cape.'
+1 silver per Bat Wing'
+1 silver 4 copper per Bone Chips'
+1 silver 4 copper per Bone Chips'
+2 gold 8 silver 6 copper for the Parrying Dagger.'
+1 gold 7 silver 1 copper for the Cloth Wristband.'
+2 gold 1 silver for the Cloth Sleeves.'
+1 gold 5 silver 2 copper for the Cloth Veil.'
+1 gold 7 silver 1 copper for the Cloth Cord.'
+2 silver 7 copper per Fire Beetle Eye'
+1 silver 2 copper for the Fire Beetle Leg.'
+1 silver per Snake Scales'
+3 copper per Snake Fang'
+1 silver per Snake Scales'
+1 silver 4 copper per Bone Chips'
+1 gold 7 silver 1 copper for the Cloth Cord.'
+an Armadillo Tail from an armadillo's corpse.--
+a Fire Beetle Eye from a fire beetle's corpse.--
+an Armadillo Carapace from an armadillo's corpse.--
+a Low Quality Coyote Pelt from a coyote's corpse.--
+a Spiderling Eye from a dune spiderling's corpse.--
+a Woven Spider Silk from a dune spiderling's corpse.--
+a Spiderling Legs from a dune spiderling's corpse.--
+a Dune Spiderling Tarsus from a dune spiderling.--
+an Armadillo Carapace from an armadillo.--
+an Armadillo Carapace from an armadillo.--
+a Fire Beetle Leg from a fire beetle.--
+a Woven Spider Silk from a dune spiderling's corpse.--
+a Dune Spiderling Hairs from a dune spiderling's corpse.--
+2 Snake Scales from a moss snake's corpse.--
+a Snake Fang from a moss snake's corpse.--
+2 Snake Fang from a rattlesnake's corpse.--
+a Ruined Cat Pelt from a young puma's corpse.--
+a Young Puma Skin from a young puma's corpse.--
+a Young Plains Cat Scalp from a young puma's corpse.--
+a Chunk of Meat from a young puma's corpse.--
+2 Young Plains Cat Backbone from a young puma's corpse.--
+a Matted Greater Cat Pelt from a young puma's corpse.--
+a Low Quality Cat Pelt from a young puma's corpse.--
+a Snake Scales from a moss snake's corpse.--
+2 Snake Fang from a moss snake's corpse.--
+a Snake Egg from a moss snake's corpse.--
+2 Snake Scales from a moss snake's corpse.--
+a Snake Fang from a moss snake's corpse.--
+a Low Quality Cat Pelt from a young puma's corpse.--
+a Young Puma Skin from a young puma's corpse.--
+2 Snake Scales from a moss snake's corpse.--
+a Snake Egg from a moss snake's corpse.--
+an Armadillo Carapace from an armadillo's corpse.--
+an Armadillo Tail from an armadillo's corpse.--
+an Armadillo Carapace from an armadillo's corpse.--
+an Armadillo Carapace from an armadillo's corpse.--
+an Armadillo Tooth from an armadillo's corpse.--
+an Armadillo Tail from an armadillo's corpse.--
+2 Armadillo Meat from an armadillo's corpse.--
+an Armadillo Carapace from an armadillo's corpse.--
+an Armadillo Tooth from an armadillo's corpse.--
+an Armadillo Tail from an armadillo's corpse.--
+a Young Plains Cat Backbone from a young puma's corpse.--
+2 Spiderling Silk from a desert spiderling's corpse.--
+a Desert Spiderling Hairs from a desert spiderling's corpse.--
+a Spiderling Eye from a desert spiderling's corpse.--
+a Spiderling Silk from a desert spiderling's corpse.--
+a Woven Spider Silk from a dune spiderling's corpse.--
+2 Spiderling Silk from a dune spiderling's corpse.--
+a Woven Spider Silk from a dune spiderling's corpse.--
+a Young Puma Skin from a young puma's corpse.--
+a Woven Spider Silk from a dune spiderling's corpse.--
+an Armadillo Tooth from an armadillo's corpse.--
+an Armadillo Tail from an armadillo's corpse.--
+a Puma Skin from a young puma's corpse.--
+a Young Puma Skin from a young puma's corpse.--
+a Matted Greater Cat Pelt from a young puma's corpse.--
+a Spiderling Legs from a dune spiderling's corpse.--
+a Spiderling Silk from a dune spiderling's corpse.--
+a Dune Spiderling Hairs from a dune spiderling's corpse.--
+a Woven Spider Silk from a dune spiderling's corpse.--
+an Armadillo Carapace from an armadillo's corpse.--
+an Armadillo Meat from an armadillo's corpse.--
+an Armadillo Carapace from an armadillo's corpse.--
+an Armadillo Tail from an armadillo's corpse.--
+a Ruined Cat Pelt from a young puma's corpse.--
+a Young Puma Skin from a young puma's corpse.--
+a Young Plains Cat Scalp from a young puma's corpse.--
+a Matted Greater Cat Pelt from a young puma's corpse.--
+a Chunk of Meat from a young puma's corpse.--
+a Young Plains Cat Scalp from a young puma's corpse.--
+a Matted Greater Cat Pelt from a young puma's corpse.--
+an Armadillo Carapace from an armadillo's corpse.--
+2 Spiderling Legs from a dune spiderling's corpse.--
+a Woven Spider Silk from a dune spiderling's corpse.--
+an Armadillo Carapace from an armadillo's corpse.--
+a Ruined Cat Pelt from a young puma's corpse.--
+a Chunk of Meat from a young puma's corpse.--
+2 Young Plains Cat Backbone from a young puma's corpse.--
+a Young Plains Cat Scalp from a young puma's corpse.--
+an Armadillo Carapace from an armadillo's corpse.--
+an Armadillo Tail from an armadillo's corpse.--
+an Armadillo Tail from an armadillo's corpse.--
+2 Armadillo Meat from an armadillo's corpse.--
+an Armadillo Tooth from an armadillo's corpse.--
+an Armadillo Tail from an armadillo's corpse.--
+2 Armadillo Meat from an armadillo's corpse.--
+an Armadillo Carapace from an armadillo's corpse.--
+an Armadillo Tail from an armadillo's corpse.--
+an Armadillo Tail from an armadillo's corpse.--
+a Puma Skin from a young puma's corpse.--
+a Young Puma Skin from a young puma's corpse.--
+2 Young Plains Cat Backbone from a young puma's corpse.--
+a Young Plains Cat Scalp from a young puma's corpse.--
+a Matted Greater Cat Pelt from a young puma's corpse.--
+a Ruined Cat Pelt from a young puma's corpse.--
+2 Young Plains Cat Backbone from a young puma's corpse.--
+a Matted Greater Cat Pelt from a young puma's corpse.--
+a Ruined Cat Pelt from a young puma's corpse.--
+2 Young Plains Cat Backbone from a young puma's corpse.--
+a Young Plains Cat Scalp from a young puma's corpse.--
+a Matted Greater Cat Pelt from a young puma's corpse.--
+an Armadillo Carapace from an armadillo's corpse.--
+2 gold 3 silver 8 copper per Armadillo Tail'
+2 silver 7 copper per Fire Beetle Eye'
+absolutely nothing per Armadillo Carapace'
+6 silver 2 copper per Low Quality Coyote Pelt'
+1 silver per Spiderling Eye'
+8 copper per Spiderling Legs'
+absolutely nothing per Dune Spiderling Hairs'
+1 silver per Snake Scales'
+3 copper per Snake Fang'
+1 silver per Ruined Cat Pelt'
+absolutely nothing per Young Puma Skin'
+2 gold 3 silver 8 copper per Young Plains Cat Scalp'
+2 gold 3 silver 8 copper per Matted Greater Cat Pelt'
+6 silver 2 copper per Low Quality Cat Pelt'
+5 copper per Snake Egg'
+2 gold 3 silver 8 copper per Armadillo Tooth'
+1 silver per Armadillo Meat'
+1 silver 6 copper per Spiderling Silk'
+1 silver 6 copper per Spiderling Silk'
+absolutely nothing per Desert Spiderling Hairs'
+9 silver 5 copper per Puma Skin'
+1 silver 2 copper for the Fire Beetle Leg.'
+absolutely nothing for the Dune Spiderling Tarsus.'
+1 silver 3 copper per Chunk of Meat'
+absolutely nothing per Armadillo Carapace'
+2 silver 9 copper for the Rusty Short Sword.'
+5 copper per Field Point Arrowheads'
+1 silver per File Mold'
+5 copper per Field Point Arrowheads'
+1 silver per Tiny Dagger'
+5 copper per Field Point Arrowheads'
+5 copper per Field Point Arrowheads'
+5 copper per Field Point Arrowheads'
+5 copper per Field Point Arrowheads'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+2 gold 3 silver 8 copper for the Large Lantern.'
+1 gold 3 silver 8 copper per Lantern Casing Mold'
+4 copper per Bottle'
+5 copper per Field Point Arrowheads'
+1 gold 9 copper for the Dairy Spoon.'
+1 gold 9 copper for the Dairy Spoon.'
+1 gold 9 copper for the Dairy Spoon.'
+1 gold 9 copper for the Dairy Spoon.'
+1 gold 9 copper for the Dairy Spoon.'
+1 gold 9 copper for the Dairy Spoon.'
+1 gold 9 copper for the Dairy Spoon.'
+1 gold 9 copper for the Dairy Spoon.'
+1 gold 9 copper for the Dairy Spoon.'
+1 gold 9 copper for the Dairy Spoon.'
+4 silver 8 copper per Scaler Mold'
+5 copper per Field Point Arrowheads'
+1 gold 2 silver for the Banded Gorget.'
+2 gold 3 silver 8 copper for the Large Lantern.'
